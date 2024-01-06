@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@1,8..60,200&display=swap');
+html{
+    
+    scroll-behavior: smooth;
+}
+
+.newdesign{
+    margin-left: 380px;
+}
+.kol{
+    color: red;
+    font-weight: bold;
+}
+.kolom{
+    margin-top: 20px;
+}
+.designtext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 5px 5px 5px rgb(110, 106, 106);
+}
+.designtextfot{
+    text-shadow: 5px 5px 5px rgb(69, 81, 213);
+   
+}
+.designtext1{
+    font-family:"Sofia", sans-serif;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.logo{
+    color: rgb(207, 14, 14);
+    text-shadow: 5px 5px 5px rgb(222, 80, 80);
+    font-size: 16px;
+    font-weight: 600;
+}
+.bold-style{
+    font-size: 35px;
+}
+.folor{
+    background-color: rgb(241, 248, 252);
+    
+}
+.downto{
+    padding-top: 80px;
+}
+.setting{
+    height: 200px;
+    width: 400px;
+    background-color: aquamarine;
+}
+.clone{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 80px;
+    color: red;
+}
+.bulid{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10xp;
+}
+.hot{
+    font-family:Copperplate, Papyrus, fantasy;
+}
+.firebox{
+    font-family: Garamond, serif;
+    margin-top: 40px;
+}
+.boldx{
+    font-weight: 700;
+}
+.logo1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+}
+.setting:hover {
+  box-shadow: 0 0 25px rgba(33, 39, 221, 0.2);
+  cursor: pointer;
+  background-image: linear-gradient(-45deg, #f33474 0%, #f55b2a 50%);
+}
+.Privacy:hover {
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #4b61d0 0%, #8272c2 50%);
+}
+.Backups:hover{
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #b91750 0%, #e683dc 50%);
+}
+.SSL:hover{
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #1ea40f 0%, #396d3b 50%); 
+}
+.Database:hover{
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #c3d107 0%, #ebf057 50%); 
+}
+.gap{
+    row-gap: 40px; 
+}
+.box{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.icon1{
+  text-align: center;
+  font-weight: 200;
+
+}
+.our-service{
+    padding: 0px 20px 20px 20px;
+}
+.gapmap{
+    padding-top: 130px;
+}
+.modern{
+    padding-top: 100px;
+    text-align: center;
+    color:  red;
+    font-weight: 200;
+    font-style: oblique;
+    font-stretch: semi-condensed;
+    font-family: serif;
+}
+.aaa{
+    width: 600px;
+    margin-top: 40px;
+}
+.conn{
+    margin-top: 70px;
+}
+
+.goodimg{
+    font-size: 40px;
+}
+.buttona{
+   justify-content: center;
+   margin-left: 250px;
+}
+.boxerdesign{
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.foxxx{
+    color: red;
+}
+.imgtoptp{
+    padding-right: 160px;
+    width: 650px;
+    padding-bottom: 20px;
+}
+@media (min-width: 320px) and (max-width: 568px) {
+    /* body {
+      background-color: lightgreen;
+    } */
+    img{
+        justify-content: center;
+        text-align: center;
+    }
+   .servicepop{
+     width: 452px;
+     
+   }
+    button{
+        justify-content: center;
+    }
+    .mainedit{
+      width: 500px;
+    }
+  }
+  .hot123{
+      font-family: ' Copperplate, Papyrus, fantasy';
+  }
